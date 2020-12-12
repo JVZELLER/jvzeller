@@ -13,8 +13,8 @@ My name is José Victor Zelller Gonçalves and I'm a Software Developer at [Ston
 #### My GitHub Stats
 
 <center>
-   <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=jvzeller&theme=default&hide=html&layout=compact" />
-   <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzeller&hide=html&layout=compact" />
+   <img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=jvzeller&theme=default&hide=html&layout=compact" />
+   <img width="390px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzeller&hide=html&layout=compact" />
 </center>
 
 #### 📫 How to reach me
