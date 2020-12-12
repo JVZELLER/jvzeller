@@ -10,7 +10,7 @@ My name is José Victor Zelller Gonçalves and I'm a Software Developer at [Ston
 - Vim Text Editor
 - K8S
 
-#### My GitHub Stats
+#### 📈 My GitHub Stats
 
 <p align=left>
  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=jvzeller&theme=default&hide=html&layout=compact" />
