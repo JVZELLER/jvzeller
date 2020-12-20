@@ -19,7 +19,7 @@ My name is José Victor Zelller Gonçalves and I'm a Software Developer at [Ston
 
 #### 📫 How to reach me
  
-You can send me a message on [Linkedin](https://www.linkedin.com/in/josé-victor-zeller-gonçalves/)
+You can find me on [Linkedin](https://www.linkedin.com/in/josé-victor-zeller-gonçalves/).
 
 <p align="left">
  <br><br>
