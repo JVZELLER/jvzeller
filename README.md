@@ -21,8 +21,7 @@ My name is José Victor Zelller Gonçalves and I'm a Software Developer at [Ston
  
 You can find me on [Linkedin](https://www.linkedin.com/in/josé-victor-zeller-gonçalves/).
 
-<p align="left">
- <br><br>
+<p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/jvzeller/jvzeller" alt="Visitors badge" />
    </a>
