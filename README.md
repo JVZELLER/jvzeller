@@ -1,5 +1,5 @@
 ### Hello, nice to meet you...
-My name is José Victor Zelller Gonçalves and I'm a Software Developer at [Stone](https://www.stone.com.br). I'm currently working with Elixir/Erlang projects.
+My name is José Victor Zelller Gonçalves and I'm a Software Engineer at [Stone](https://www.stone.com.br). I'm currently working with Elixir/Erlang projects.
 
 #### 🌱 I’m currently learning ...
 
