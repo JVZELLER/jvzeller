@@ -3,10 +3,10 @@ My name is José Victor Zeller Gonçalves and I'm a Software Engineer at [Stone]
 
 #### 🌱 I’m currently learning ...
 
-- Elixir
-- Erlang
+- Erlang/Elixir
 - Beam (Erlang virtual machine)
-- Rust
+- RabbitMQ
+- Apache Kafka
 - Vim Text Editor
 - K8S
 
