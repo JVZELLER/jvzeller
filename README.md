@@ -19,7 +19,7 @@ My name is José Victor and I'm a Software Engineer at [Stone](https://www.stone
 
 #### 📫 How to reach me
  
-You can find me on [Linkedin](https://www.linkedin.com/in/jv-zeller/).
+You can find me on [Linkedin](https://www.linkedin.com/in/jv-zeller-goncalves).
 
 <p align="right">
   <a href="https://badges.pufler.dev">
