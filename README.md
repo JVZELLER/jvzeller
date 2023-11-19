@@ -13,7 +13,7 @@ My name is José Victor and I'm a Software Engineer at [Stone](https://www.stone
 #### 📈 My GitHub Stats
 
 <p align=left>
- <img width="460px" src="https://github-readme-stats.vercel.app/api?username=jvzeller&theme=default&hide=html&layout=compact&count_private=true&show_icons=true" />
+<!--  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=jvzeller&theme=default&hide=html&layout=compact&count_private=true&show_icons=true" /> -->
  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvzeller&hide=html&layout=compact" />                    
 </p>
 
