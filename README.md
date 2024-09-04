@@ -9,6 +9,7 @@ My name is José Victor and I'm a Software Engineer at [Stone](https://www.stone
 - Apache Kafka
 - Vim Text Editor
 - K8S
+- Go
 
 #### 📈 My GitHub Stats
 
