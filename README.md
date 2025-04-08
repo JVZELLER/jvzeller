@@ -1,15 +1,15 @@
 ### Hello, nice to meet you...
-My name is José Victor and I'm a Senior Software Engineer at [Stone](https://www.stone.com.br). I'm currently working on Elixir/Erlang projects.
+My name is José Victor and I'm a Senior Software Engineer at [Nubank](https://www.nubank.com.br). I'm currently working on Clojure and Elixir/Erlang projects.
 
 #### 🌱 I’m currently learning/interested in ...
 
+- Clojure
 - Erlang/Elixir
 - Beam (Erlang virtual machine)
 - RabbitMQ
 - Apache Kafka
 - Vim Text Editor
 - K8S
-- Go
 
 #### 📈 My GitHub Stats
 
